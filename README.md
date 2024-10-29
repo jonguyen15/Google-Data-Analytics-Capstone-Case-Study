@@ -70,8 +70,9 @@ Another analysis I had was that annual members of Cyclystic were more likely to 
 The SQL Query:
 https://github.com/jonguyen15/Google-Data-Analytics-Capstone-Case-Study/blob/b04249ecf66432874d64376c3588d5ac2b347cb6/Data%20Exploration.sql#L13-L20
 
-Gen Z users of Cyclystic are subscribed to the annual membership less than any other generation. 
+Gen Z users of Cyclystic are subscribed to the annual membership less than any other generation. Only 85% of Gen Z users are subscribed compared to the Millennial and Gen X population where over 97% of users are subscribed to Cyclystic
 
+The SQL Query:
 https://github.com/jonguyen15/Google-Data-Analytics-Capstone-Case-Study/blob/3420a638ec6a563cf5bfd0d474f0d6a72a5ec57c/Data%20Exploration.sql#L34-L41
 
 
