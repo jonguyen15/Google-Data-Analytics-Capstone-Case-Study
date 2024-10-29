@@ -16,3 +16,14 @@ Data: [Divvy Trips Data](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
 [Note that the data has been made available by Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement).]
 
+The dataset I used - Divvy_Trips_2020_Q1.zip
+
+**Tools:**
+
+Google Sheets for data cleaning and inital data visualization
+
+Google Cloud for SQL queries 
+
+RStudio for R programming
+
+
