@@ -26,4 +26,8 @@ Google Cloud for SQL queries
 
 RStudio for R programming
 
+### **3. Process**
+Cleaning Data
+
+
 
