@@ -38,15 +38,17 @@ Created another column to determine the day the trip took place.
 | end_time      | TIMESTAMP     |
 | bikeID        | INTEGER       |
 | tripduration  | FLOAT         |
-| Content Cell  | Content Cell  |
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| from_station_name | STRING    |
+| to_station_id | INTEGER       |
+| to_station_name  | STRING     |
+| usertype      | STRING        |
+| gender        | STRING        |
+| birthyear     | INTEGER       |
+| ride_length   | TIME          |
+| day_of_week   | INTEGER       |
+
+
+
 Ran multiple SQL queries to search for patterns in the data.
 
 
