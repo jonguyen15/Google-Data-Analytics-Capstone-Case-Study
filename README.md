@@ -70,6 +70,7 @@ Another analysis I had was that annual members of Cyclystic were more likely to 
 The SQL Query:
 https://github.com/jonguyen15/Google-Data-Analytics-Capstone-Case-Study/blob/b04249ecf66432874d64376c3588d5ac2b347cb6/Data%20Exploration.sql#L13-L20
 
+Gen Z users of Cyclystic are subscribed to the annual membership less than any other generation. 
 
 
 
