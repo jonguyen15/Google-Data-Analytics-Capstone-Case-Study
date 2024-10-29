@@ -61,6 +61,7 @@ The question I have been tasked to answer is:
 "How do annual members and casual riders use Cyclistic bikes differently?
 
 When analyzing the dataset, I found that the non-subscriber users of Cyclistic tend to use the bikes on Sundays, while subscribers use the bikes on Fridays more.
+[The SQL queries](url)
 
 
 
