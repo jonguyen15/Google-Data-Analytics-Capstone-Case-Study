@@ -30,7 +30,12 @@ Created a new column to determine the length of the ride.
 
 Created another column to determine the day the trip took place.
 
+Changed blank values in gender to Not Disclosed.
+
+
 **Data Exploration**: 
+This dateset contains 13 data variables of many types. 
+
 | Field Name    | Type          |
 | ------------- | ------------- |
 | trip_id       | INTEGER       |
