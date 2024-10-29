@@ -14,9 +14,7 @@ Question - "How do annual members and casual riders use Cyclistic bikes differen
 ### **2. Prepare**
 Data: [Divvy Trips Data](https://divvy-tripdata.s3.amazonaws.com/index.html)
 
-[Note that the data has been made available by Motivate International Inc. under this [license](https://divvybikes.com/data-license-agreement).]
-
-The dataset I used - Divvy_Trips_2020_Q1.zip
+The dataset I used - Divvy_Trips_2019_Q1.zip
 
 **Tools:**
 
@@ -24,10 +22,33 @@ Google Sheets for data cleaning and inital data visualization
 
 Google Cloud for SQL queries 
 
-RStudio for R programming
 
 ### **3. Process**
-Cleaning Data
+**Cleaning Data**:
+
+Created a new column to determine the length of the ride. 
+
+Created another column to determine the day the trip took place.
+
+**Data Exploration**: 
+| Field Name    | Type          |
+| ------------- | ------------- |
+| trip_id       | INTEGER       |
+| start_time    | TIMESTAMP     |
+| end_time      | TIMESTAMP     |
+| bikeID        | INTEGER       |
+| tripduration  | FLOAT         |
+| Content Cell  | Content Cell  |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+Ran multiple SQL queries to search for patterns in the data.
+
 
 
 
