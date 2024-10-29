@@ -60,10 +60,15 @@ Ran multiple SQL queries to search for patterns in the data and to find any erro
 The question I have been tasked to answer is: 
 "How do annual members and casual riders use Cyclistic bikes differently?
 
-When analyzing the dataset, I found that the non-subscriber users of Cyclistic tend to use the bikes on Sundays, while subscribers use the bikes on Fridays more.
+When analyzing the dataset, I found that casual users of Cyclistic tend to use the bikes on Sunday, while annual members use the bikes more on Friday.
 
 The SQL Query:
 https://github.com/jonguyen15/Google-Data-Analytics-Capstone-Case-Study/blob/8a55233391624c1eadcbfaee6fb2d19865f5c782/Data%20Exploration.sql#L1-L12
+
+Another analysis I had was that annual members of Cyclystic were more likely to ride for more than 90 minutes than casual riders. 
+
+The SQL Query:
+https://github.com/jonguyen15/Google-Data-Analytics-Capstone-Case-Study/blob/b04249ecf66432874d64376c3588d5ac2b347cb6/Data%20Exploration.sql#L13-L20
 
 
 
