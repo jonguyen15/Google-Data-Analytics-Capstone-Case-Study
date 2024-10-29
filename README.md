@@ -62,7 +62,9 @@ The question I have been tasked to answer is:
 
 When analyzing the dataset, I found that the non-subscriber users of Cyclistic tend to use the bikes on Sundays, while subscribers use the bikes on Fridays more.
 
-[The SQL Queries:]((https://github.com/jonguyen15/Google-Data-Analytics-Capstone-Case-Study/blob/main/Data%20Exploration.sql))
+The SQL Query:
+https://github.com/jonguyen15/Google-Data-Analytics-Capstone-Case-Study/blob/8a55233391624c1eadcbfaee6fb2d19865f5c782/Data%20Exploration.sql#L1-L12
+
 
 
 
