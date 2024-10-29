@@ -54,7 +54,8 @@ This dateset contains 13 data variables of many types.
 
 
 
-Ran multiple SQL queries to search for patterns in the data.
+Ran multiple SQL queries to search for patterns in the data and to find any errors or inconsistencies within the data.
+### **4. Analysis**
 
 
 
