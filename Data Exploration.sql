@@ -10,3 +10,14 @@ FROM `deft-processor-434616-r6.Divvy_Trips_2019_Q1.Divvy_2019`
 WHERE  usertype = 'Customer'
 GROUP BY day_of_week
 ORDER BY COUNT(*) DESC
+-- Code Chunk to find how many entries of subscribers that rides for longer than 90 minutes
+SELECT ride_length, usertype
+FROM `deft-processor-434616-r6.Divvy_Trips_2019_Q1.Divvy_2019`
+WHERE usertype = 'Subscriber'  AND ride_length >= '1:30:00'
+-- Code Chunk to find how many entries of subscribers that rides for longer than 90 minutes
+SELECT ride_length, usertype
+FROM `deft-processor-434616-r6.Divvy_Trips_2019_Q1.Divvy_2019`
+WHERE usertype = 'Customer'  AND ride_length >= '1:30:00'
+
+
+
