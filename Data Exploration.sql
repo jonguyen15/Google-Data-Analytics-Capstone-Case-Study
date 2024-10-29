@@ -31,5 +31,13 @@ WHERE birthyear >=1980 AND birthyear <= 1996
 SELECT COUNT(birthyear)
 FROM `deft-processor-434616-r6.Divvy_Trips_2019_Q1.Divvy_2019`
 WHERE birthyear >=1965 AND birthyear <= 1979
+-- Code Chunk to find how many GEN Z users are subscribers and customers
+SELECT birthyear
+FROM `deft-processor-434616-r6.Divvy_Trips_2019_Q1.Divvy_2019`
+WHERE birthyear >= 1997 AND usertype = "Subscriber"
+
+SELECT birthyear
+FROM `deft-processor-434616-r6.Divvy_Trips_2019_Q1.Divvy_2019`
+WHERE birthyear >= 1997 AND usertype = "Customer"
 
 
