@@ -95,6 +95,12 @@ While both types of users prefer to use Cyclistic bikes on the weekends, the dis
 **Recommendations**:
 
 - I believe that Cyclstic should run promotions on days of the week that are not Friday and Sunday to increase the number of users overall. I think this would boost up the number of annual memberships greatly.
+- Cyclistic should also run events that encourage longer distance rides to show users that the bikes are comfortable and reliable to use often.
+- Most importantly, I believe that this company should market Cyclistic more towards the younger generations. Gen Z is a large untapped market of users that are in the prime of their youth and they should take full advantage of that. A specific marketing campaign through social media and other means would greatly increase the profits of this company.
+
+ # 📘 Conclusion
+
+  This analysis should bring key insights about the state of the company and how future steps should be taken. By focusing on the strengths this company has and marketing towards another demographic, this company should continue to see an increase in size and profits.
 
 
 
