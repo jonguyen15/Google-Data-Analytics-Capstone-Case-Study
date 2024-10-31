@@ -79,11 +79,22 @@ Gen Z users of Cyclystic are subscribed to the annual membership less than any o
 The SQL Query:
 https://github.com/jonguyen15/Google-Data-Analytics-Capstone-Case-Study/blob/3f5a65a09d4dc495f1fcb0ecf252aec780f83bdd/Data%20Exploration.sql#L34-L49
 
+Visualization:
+
+![{9AFCA066-3639-4D71-A95A-C5746CB73827}](https://github.com/user-attachments/assets/cf0ef290-dfe6-4dbd-b3ee-be54b24b6942)
+### **5. Share**
+![{A5209907-18FE-4FBB-AA68-BC2671C4E52C}](https://github.com/user-attachments/assets/bba819aa-ede4-4dea-bf31-311ce215e84a)
+
+The differences between annual and casual members are shown above in the dashboard. 
+While both types of users prefer to use Cyclistic bikes on the weekends, the distrbution of uses are on different days. Annual members tend to ride bikes on Fridays while casual members prefer to lesiurely ride them on Sundays. There is also a significant gap in subscription numbers between generations. Gen X and millennial users tend to be subscribed at a much higher percentage (98%) than Gen Z users (85%). There is also a large discrepancy of number of users that use Cyclistic Bike Share overall. Gen Z's user population is substantially smaller compared to previous generations.  
+
+
+
 ### **6. Act** 
 
 **Recommendations**:
 
-1. 
+- I believe that Cyclstic should run promotions on days of the week that are not Friday and Sunday to increase the number of users overall. I think this would boost up the number of annual memberships greatly.
 
 
 
