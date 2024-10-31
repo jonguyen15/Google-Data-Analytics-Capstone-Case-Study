@@ -75,4 +75,11 @@ Gen Z users of Cyclystic are subscribed to the annual membership less than any o
 The SQL Query:
 https://github.com/jonguyen15/Google-Data-Analytics-Capstone-Case-Study/blob/3f5a65a09d4dc495f1fcb0ecf252aec780f83bdd/Data%20Exploration.sql#L34-L49
 
+### **6. Act** 
+
+**Recommendations**:
+
+1. 
+
+
 
